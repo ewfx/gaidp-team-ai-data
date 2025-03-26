@@ -1,0 +1,25 @@
+Type of Hedges,Hedged Risk,Hedge Interest Rate,Hedge Percentage,Hedge Horizon,Hedged Cash Flow,Sidedness,Hedging Instrument at Fair Value,Effective Portion of Cumulative Gains and Losses,ASU 201712 Hedge Designations
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,2024-12-01,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,2024-12-01,5=Other 6= Not applicable.,3= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,2024-12-01,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,12-01-2024,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,6=Credit Risk,4 =Other,0.9999,2024-12-01,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,2024-12-01,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+6=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,2024-12-01,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
+1= Fair Value Hedge,2=Interest Rate Risk,2=London Interbank Offered Rate (LIBOR) Swap Rate,0.4567,2024-12-01,2=Interest Only,1=One-sided,20000000,10000000,1= Last-of-Layer
+2=Cash Flow Hedge,4=Credit Risk,4 =Other,0.9999,09-03-2025,5=Other 6= Not applicable.,2= Not One-sided,-15000000,-5000000,3= Not applicable
+1= Fair Value Hedge,1=Overall Change in Fair Value or Variability in Cash Flows,1=US Treasury Security Interest Rate,0.1234,2024-12-01,1=Principal and Interest Cash Flows,1=One-sided,30000000,25000000,2= One or more selected contractual cash flows
